@@ -1,0 +1,4 @@
+EC2 URL: http://ec2-3-143-244-145.us-east-2.compute.amazonaws.com
+EC2 IP: 3.143.244.145
+
+Docker Hub: https://hub.docker.com/r/wenqianli/my_docker_flask
